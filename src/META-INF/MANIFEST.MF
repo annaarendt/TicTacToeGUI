@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: C:\Users\annae\OneDrive\Documents\WS2021\GUITicTacToe\src\Ma
+ in.class
+
